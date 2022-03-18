@@ -61,10 +61,23 @@ Furthermore, this approach prevents members from being solely responsible for on
 **Topic Selection**
 We selected a dataset that analyses factors that lead to heart disease. We reviewed several other open-source datasets however, we selected this one based on interest, its relevancy, and the ability of the created machine learning model to be applicable to real world scenarios and provide a foundation from which similar datasets could be anlaysed.
 
-A link to the data set can be foudn here : https://github.com/Rangisal/Group-7-Project/blob/main/Resources/heart_disease_key_indicators.csv.
+A link to the dataset can be foudn here : https://github.com/Rangisal/Group-7-Project/blob/main/Resources/heart_disease_key_indicators.csv.
 
 **Questions To Be Answered**
 
+We hope to answer the following questions throughout the project:
+
+1. What are the key indicators that lead to heart disease. 
+2. What factors had the greatest influence on a person developing heart disease and in what proportions.
+3. Can a machine learning model accurately predict whether a person will develop heart disease based on the data provided.
+
+**GitHub**
+
+A link to the main page of the Group 7 Final Project GitHub repsoitory can be found here: https://github.com/Rangisal/Group-7-Project.
+
+**Machine Learning Model**
+
+**Database**
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
